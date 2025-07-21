@@ -1,0 +1,8 @@
+Method Class,Method Name,Current Class Similarity,Candidate Class,Candidate Similarity,Suggestion
+WordDataPopulator,setKeyAsAccessed,0.0000,TemplateInfo,0.1659,YES
+WordDataPopulator,hasUnAccessedNamePath,0.0000,TemplateInfo,0.1237,YES
+CountryInfo,matchesWithinNames,0.0000,NameInfo,0.1411,YES
+AppLogger,stackTrace,0.0000,AtadW2XConstants,0.1582,YES
+AtadW2XHandler,transformFile,0.0000,XsltTransformer,0.1279,YES
+ValueElementsBuilder,getExtxrefElement,0.0873,AtadW2XConstants,0.2868,YES
+ValueElementsBuilder,processUnderlinedRun,0.0000,AtadW2XConstants,0.1014,YES
